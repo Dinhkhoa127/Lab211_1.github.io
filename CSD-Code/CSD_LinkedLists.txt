@@ -1,0 +1,3 @@
+CSD201: Lists
+-Circular Lists: Danh sách vòng là khi các nút tạo thành một vòng: Danh sách là hữu hạn và mỗi nút có một nút kế tiếp
+-Doubly Linked Lists: Trong danh sách liên kết đôi, mỗi nút có hai trường tham chiếu, một cho nút kế tiếp và một cho nút trước đó.
